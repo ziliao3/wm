@@ -20,7 +20,7 @@
   </tr>
   <tr>
       <td align=center>
-2017网民翻墙最人气软件<br/>
+网民翻墙最人气软件<br/>
 安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
   </tr>
   <tr>
